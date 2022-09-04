@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LianaRamos
+- 👀 I’m interested in learning more about technologies...
+- 🌱 I’m currently learning the basic...
+- 📫 How to reach me: lianalanay3@gmail.com...
+
+<!---
+LianaRamos/LianaRamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
